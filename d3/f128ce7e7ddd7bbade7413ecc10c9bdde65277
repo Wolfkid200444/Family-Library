@@ -1,0 +1,66 @@
+frontend/index.tsx
+  s_dbf794bae585fa::t_d53d3d4e6ac044 82,84
+  s_dbf794bae585fa::t_cbbc9cfb15015b 2,4-32,34-44,48-81,83,85
+  s_dbf794bae585fa::t_0cf51a16849e6a 1,33
+  s_dbf794bae585fa::t_75e669bc63a21b 3
+  s_dbf794bae585fa::t_73980726fe6739 45-47
+millennium.toml
+  s_dbf794bae585fa::t_3547ed83976b19 1-15,17-19
+  s_dbf794bae585fa::t_75e669bc63a21b 16
+.luarc.json
+  s_dbf794bae585fa::t_d0758b01923748 1-7
+frontend/steam.ts
+  s_dbf794bae585fa::t_cbbc9cfb15015b 42-48,53,113-121
+  s_dbf794bae585fa::t_5f4135e52316cb 133-134,148-155
+  s_dbf794bae585fa::t_4348aeaeb5aa5b 63-65,70-71
+  s_dbf794bae585fa::t_73980726fe6739 81-82,93-100
+  s_dbf794bae585fa::t_a1fb31b8ee7d1c 1-41,49-52,54-62,66-69,72-80,83-92,101-112,122-132,135-147,156
+scripts/verify_hook.py
+  s_dbf794bae585fa::t_73980726fe6739 1-32
+backend/main.lua
+  s_dbf794bae585fa::t_cbbc9cfb15015b 12-20,22-25
+  s_dbf794bae585fa::t_73980726fe6739 21
+  s_dbf794bae585fa::t_000e502bd61e87 1-11,26
+frontend/library.ts
+  s_dbf794bae585fa::t_0cf51a16849e6a 1,96,100,111
+  s_dbf794bae585fa::t_a1fb31b8ee7d1c 3-27,29-67,71-84,86-95,97-99,101-110,112-123
+  s_dbf794bae585fa::t_e85961b51118d8 68-70
+  s_dbf794bae585fa::t_cbbc9cfb15015b 2,28,85
+frontend/grouping.ts
+  s_dbf794bae585fa::t_a1fb31b8ee7d1c 1-20
+package.json
+  s_dbf794bae585fa::t_3547ed83976b19 1-17
+  s_dbf794bae585fa::t_d0758b01923748 18
+.gitignore
+  s_dbf794bae585fa::t_d0758b01923748 6
+  s_dbf794bae585fa::t_3547ed83976b19 1-2,5
+  s_dbf794bae585fa::t_75e669bc63a21b 3-4
+README.md
+  s_dbf794bae585fa::t_d89655d7bbebec 23-26
+  s_dbf794bae585fa::t_1dc7bfb086c178 1-22,27-51
+tsconfig.json
+  s_dbf794bae585fa::t_3547ed83976b19 1-13,23
+  s_dbf794bae585fa::t_d0758b01923748 14-22,24-28
+tests/grouping.test.ts
+  s_dbf794bae585fa::t_1fa3c02ee01db0 3,60-90
+  s_dbf794bae585fa::t_549444a8fa919e 40-59
+  s_dbf794bae585fa::t_73980726fe6739 1-2,4-39,91-92
+package-lock.json
+  s_dbf794bae585fa::t_5e523ec0067816 1-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d3f128ce7e7ddd7bbade7413ecc10c9bdde65277",
+  "prompts": {},
+  "sessions": {
+    "s_dbf794bae585fa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0eaee-adfb-7d42-8b10-94e981d71749",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
