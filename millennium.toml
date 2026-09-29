@@ -1,0 +1,19 @@
+[plugin]
+id = "local.steam-family-library"
+name = "Family Library"
+version = "0.1.0"
+author = "Wolf"
+description = "Separate your Steam Family games by owner and show owners on game pages."
+
+[backend]
+entry = "backend/main.lua"
+sources = ["backend/**/*.lua"]
+
+[frontend]
+entry = "frontend/index.tsx"
+
+[compiler]
+output_path = "build/family-library.star"
+
+[patches]
+debug = true
